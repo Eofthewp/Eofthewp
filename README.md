@@ -4,7 +4,7 @@
 <h1 align="center">Ewp</h1>
 
 <p align="center">    
-    <img src="https://github.com/Eofthewp/README.md/blob/main/github-metrics.svg">
+    <img src="https://github.com/Eofthewp/Eofthewp/blob/main/github-metrics.svg">
 </p>
 
 🔭 I’m currently working on **[LinuxTree](https://github.com/Linux-Tree)**
